@@ -1,0 +1,32 @@
+
+.kk{
+    color: #ffffff;
+    background-image: url("https://i.pinimg.com/236x/a4/6a/99/a46a995666a320eedb11f71bdc88db36.jpg");
+    height: 450px;
+    width: 350px;
+   
+}
+h1{
+    text-align: center;
+    background-color: #323f4b;
+}
+.send{
+    background-color: #47a3f3;
+    text-align: right;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.receved{
+    background-color: #52606d;
+    text-align: left;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.send:hover{
+    transform: scale(1.01);
+}
+.receved:hover{
+    transform: scale(1.01);
+}
